@@ -1,3 +1,12 @@
+> **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/19H0lER8IYgfeJB1908q7SA?pwd=fafd
+>
+> **夸克网盘**：https://pan.quark.cn/s/e9c9660a5939
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/ok-wuthering-waves/releases) 下载。
+
+
 <div align="center">
   <h1 align="center">
     <img src="icons/icon.png" width="200" alt="ok-ww logo"/>
@@ -56,7 +65,6 @@
 *   **[GitHub](https://github.com/ok-oldking/ok-wuthering-waves/releases)**: 官方发布页，全球访问速度快。（**请下载 `setup.exe` 安装包，而不是 `Source Code` 源码压缩包**）
 *   **[Mirror酱](https://mirrorchyan.com/zh/projects?rid=okww&source=ok-ww-readme)**: 国内镜像，下载可能需要购买其平台的 CD-KEY。
 *   **[百度网盘](https://pan.baidu.com/s/102Mh1djq2B1T-cIJhct9Gg?pwd=okww)**: 免费下载
-*   **[夸克网盘](https://pan.quark.cn/s/418018ddf7a0)**: 免费下载
 
 ## ✨ 主要功能
 <img width="1774" height="1182" alt="QQ_1762960844719" src="https://github.com/user-attachments/assets/c5eb0145-0d45-44f9-85b3-184de0ef20bf" />
