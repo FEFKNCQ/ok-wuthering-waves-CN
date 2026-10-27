@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/e9c9660a5939
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/ok-wuthering-waves/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/ok-wuthering-waves-CN/releases) 下载。
 
 
 <div align="center">
